@@ -1,9 +1,7 @@
-package main.java.com.sergeykarpen.javacore.chaprer18;
+package main.java.com.sergeykarpen.javacore.chaprer18.theory_arrays;
 
 import java.util.ArrayList;
 import java.util.Spliterator;
-
-import static java.lang.Math.*;
 
 public class SpliteratorDemo {
     public static void main(String[] args) {

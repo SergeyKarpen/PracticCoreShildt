@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chaprer18;
+package main.java.com.sergeykarpen.javacore.chaprer18.theory_arrays;
 
 import java.util.*;
 
