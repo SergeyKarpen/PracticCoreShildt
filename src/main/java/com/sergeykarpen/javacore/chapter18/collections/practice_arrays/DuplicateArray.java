@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter18.practice_arrays;
+package main.java.com.sergeykarpen.javacore.chapter18.collections.practice_arrays;
 
 import java.util.ArrayList;
 
