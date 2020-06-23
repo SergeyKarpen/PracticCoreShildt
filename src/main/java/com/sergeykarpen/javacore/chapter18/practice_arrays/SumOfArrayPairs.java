@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chaprer18.practice_arrays;
+package main.java.com.sergeykarpen.javacore.chapter18.practice_arrays;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import java.util.*;
  */
 
 
-public class Task_1 {
+public class SumOfArrayPairs {
 
     static int sumArrayPairs = 0;
     static int valuesToDetermine = 18;

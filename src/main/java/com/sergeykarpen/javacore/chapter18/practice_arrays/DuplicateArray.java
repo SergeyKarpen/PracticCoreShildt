@@ -1,11 +1,11 @@
-package main.java.com.sergeykarpen.javacore.chaprer18.practice_arrays;
+package main.java.com.sergeykarpen.javacore.chapter18.practice_arrays;
 
 import java.util.ArrayList;
 
 /**
  * Дан массив целых чисел.Необходимо реализовать метод, которые определяет, содержит ли данный массив дубликаты
  */
-public class Task_2 {
+public class DuplicateArray {
 
     static int[] defaultArray = {4, 5, 6, 7, 5, 7};
     static int numberIteration;

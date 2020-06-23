@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chaprer18.theory_arrays;
+package main.java.com.sergeykarpen.javacore.chapter18.theory_arrays;
 
 //Преобразовать списочный массив ArrayList в обычный массив
 
