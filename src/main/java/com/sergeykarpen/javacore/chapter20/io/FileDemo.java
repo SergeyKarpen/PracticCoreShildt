@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter20.nio;
+package main.java.com.sergeykarpen.javacore.chapter20.io;
 
 import java.io.File;
 
