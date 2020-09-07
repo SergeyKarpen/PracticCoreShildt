@@ -1,6 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter11.Thread;
-
-import org.w3c.dom.ls.LSOutput;
+package main.java.com.sergeykarpen.javacore.chapter11.thread.theory_thread;
 
 class NewThread1 implements Runnable {
     Thread t;

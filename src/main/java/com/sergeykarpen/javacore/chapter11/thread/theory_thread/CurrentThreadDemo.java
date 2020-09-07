@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter11.Thread;
+package main.java.com.sergeykarpen.javacore.chapter11.thread.theory_thread;
 
 public class CurrentThreadDemo {
     public static void main(String[] args) {

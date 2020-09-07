@@ -1,8 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter11.Thread;
-
-import org.w3c.dom.ls.LSOutput;
-
-import javax.imageio.stream.ImageInputStream;
+package main.java.com.sergeykarpen.javacore.chapter11.thread.theory_thread;
 
 //Применить метод join(), чтобы ожидапть завершение птоков исполнения
 class NewThread implements Runnable {
