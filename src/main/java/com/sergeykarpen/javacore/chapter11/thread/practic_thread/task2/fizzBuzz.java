@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter11.thread.task2;
+package main.java.com.sergeykarpen.javacore.chapter11.thread.practic_thread.task2;
 
 import java.util.ArrayList;
 import java.util.List;
