@@ -1,9 +1,5 @@
 package main.java.com.sergeykarpen.javacore.chapter11.thread.practic_thread.task1;
 
-import main.java.com.sergeykarpen.javacore.chapter11.thread.theory_thread.Foo;
-
-import java.util.concurrent.locks.ReentrantLock;
-
 public class BThread implements Runnable {
     Foo foo;
     String name;

@@ -1,4 +1,4 @@
-package main.java.com.sergeykarpen.javacore.chapter11.thread.theory_thread;
+package main.java.com.sergeykarpen.javacore.chapter11.thread.practic_thread.task1;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.locks.Condition;
